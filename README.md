@@ -1,10 +1,12 @@
-# Valentine-Unity
+# Happy Valentine's Day
 Interactive Valentine's Day greeting app (min ver)
 
 ------------
 
 
 BUILD on Google Drive: [HERE](https://drive.google.com/file/d/1axi15Ut3sdeMSz4wncUakxuEnVIZcPRQ/view?usp=sharing "HERE")
+
+ALT+F4 to EXIT
 
 
 ------------
